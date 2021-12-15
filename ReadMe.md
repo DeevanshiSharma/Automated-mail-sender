@@ -1,7 +1,7 @@
 # Automated Birthday mail sender\ python
  Automated birthday mail sender automatically sends out your personalised mails to your friends and colleagues vie your mail id.
 
-The basic idea behind this code is that the program will check if there's any birthday today from the stored excel sheet and then mail the one the letters to the birthday person your personalized wishes. 
+The basic idea behind this code is that the program will check if there's any birthday today from the stored excel sheet and then mail one of the saved letter to the birthday person with your personalized wishes in the letter. 
 
 The program uses 6 main libraries:
 
