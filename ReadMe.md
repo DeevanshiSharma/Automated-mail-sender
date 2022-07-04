@@ -1,4 +1,4 @@
-#Automated wisher\ python
+# Automated wisher\ python
 Automated wisher is used to automate the process of sends out your personalised wishes to your friends and colleagues via your mail.
 
 The basic approach is that the program will check if there's any birthday today from the stored excel sheet and then mail one of the saved letter at random to the birthday person with your personalized wishes in the letter. 
