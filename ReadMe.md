@@ -10,6 +10,6 @@ Now you have a file that contains all the required data of your birthday mails r
 
 Now for the part of sending out mail:
 A function sendEmail() has been defined which will start a Gmail session, send the email, and quit the session. And in the driver code section, the program reads the data from the Excel sheet and matches today’s date with any of the birthdays. If there is a match, sendEmail() function is called. 
-Also, ToastNotifier from the win10toast library is used to show desktop notifications once the e-mail has been sent successfully.
+Also, ToastNotifier from the win10toast library is used to show desktop notifications once the mail has been sent successfully.
 
  
