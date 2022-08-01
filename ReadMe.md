@@ -1,11 +1,11 @@
-# Automated wisher\ python
-Automated wisher is used to automate the process of sends out your personalised wishes to your friends and colleagues via your mail.
+# Automated mail sender \ python
+Automated mail sender can be used to automate the process of sends out your birthday wishes to your friends and colleagues via mail.
 
-The basic approach is that the program will check if there's any birthday today from the stored excel sheet and then mail one of the saved letter at random to the birthday person with your personalized wishes in the letter. 
+The basic approach is that the program will check if there's any birthday today from the stored excel sheet and then mail one of the saved letter at random to the birthday person with your wishes in the letter. 
 
 The program uses packages such as Pandas, DateTime, Win10Toast, smtplib, and Random.
 
-Firstly you create an Excle sheet where you store details like name, mail id, and birth date of your friends and colleagues.
+Firstly you create an Excel sheet where you store details like name, mail id, and birth date of your friends and colleagues.
 Now you have a file that contains all the required data of your birthday mails recipients. So it's time to create some creative birthday wishes for them. Create at least 3 .txt files (birthday letters) and name them as letter_1.txt, letter_2.txt, letter_3.txt, etc and save these files inside the folder letters.
 
 Now for the part of sending out mail:
