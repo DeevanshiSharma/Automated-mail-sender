@@ -1,5 +1,5 @@
-# Automated mail sender \ python
-Automated mail sender can be used to automate the process of sends out your birthday wishes to your friends and colleagues via mail.
+# Automated Birthday mail sending \ python
+It is used to automate the process of sends out your birthday wishes to your friends and colleagues via mail.
 
 The basic approach is that the program will check if there's any birthday today from the stored excel sheet and then mail one of the saved letter at random to the birthday person with your wishes in the letter. 
 
